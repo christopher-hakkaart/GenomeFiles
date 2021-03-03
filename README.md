@@ -1,5 +1,7 @@
 # genomeFiles
-Meta-chromosome genome files and scripts
+Files origins
 
-Centromere regions extracted from 
-Chromosome regions extracted from GRCh38_full_analysis_set_plus_decoy_hla.dict
+Centromere regions lifted from: 
+Chromosome regions lifted from: GRCh38_full_analysis_set_plus_decoy_hla.dict
+Bins made with command: bedtools makewindows -g GRCh38_chr -w 100000 > GRCh38_100kbins
+
