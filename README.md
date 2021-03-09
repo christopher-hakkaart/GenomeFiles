@@ -1,4 +1,4 @@
-Files origins.
+Files origins:
 
 Chromosome regions lifted from: GRCh38_full_analysis_set_plus_decoy_hla.dict.
 
