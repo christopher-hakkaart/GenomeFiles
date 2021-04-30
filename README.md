@@ -1,5 +1,3 @@
-Useful files:
-
 GRCh37_100kbins    100k bins across genome for GRCh37
 
 GRCh37_centromeres centromere regions for GRCh37
