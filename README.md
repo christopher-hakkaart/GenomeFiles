@@ -1,5 +1,9 @@
+Useful files:
 
-Chromosome regions lifted from: GRCh38_full_analysis_set_plus_decoy_hla.dict
-
-bedtools makewindows -g GRCh38_chr -w 100000 > GRCh38_100kbins
-
+GRCh37_100kbins    100k bins across genome for GRCh37
+GRCh37_centromeres centromere regions for GRCh37
+GRCh37_chr         length of chromosomes for GRCh37
+GRCh38_100kbins    100k bins across genome for GRCh38
+GRCh38_centromeres centromere regions for GRCh38
+GRCh38_chr         length of chromosomes for GRCh38
+ExpVio             Expected and Violations of mendelian inheritance in trios
